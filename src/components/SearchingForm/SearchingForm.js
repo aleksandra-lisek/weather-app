@@ -3,7 +3,9 @@ import React from 'react';
 // import styled from 'styled-components';
 
 function SearchingForm(props){
-    return <p>Miasto</p>
+    return <div>
+           
+        </div>
 }
 
-export default SearchingForm
+export default SearchingForm;
